@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on **some projects**
 - 🌱 I’m currently learning **ReactJs, NodeJs**
 - 📫 How to reach me **duypham0522@gmail.com**
-- ⚡ Fun fact **I think that I may know a little bit of coding hehe**
+- ⚡ Fun fact **: I'm not a fish**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
