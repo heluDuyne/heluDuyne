@@ -6,7 +6,7 @@
 </p>
 
 - 🔭 I’m currently working on **some projects**
-- 🌱 I’m currently learning **ReactJs, NodeJs**
+- 🌱 I’m currently learning **ReactJs, NodeJs, Flutter**
 - 📫 How to reach me **duypham0522@gmail.com**
 - ⚡ Fun fact **: I'm not a fish**
 
